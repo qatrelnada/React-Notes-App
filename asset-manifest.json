@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Notes-app/static/css/main.a0638d69.chunk.css",
+    "main.css": "/React-Notes-app/static/css/main.2b599f18.chunk.css",
     "main.js": "/React-Notes-app/static/js/main.68651d82.chunk.js",
     "main.js.map": "/React-Notes-app/static/js/main.68651d82.chunk.js.map",
     "runtime-main.js": "/React-Notes-app/static/js/runtime-main.333db24f.js",
@@ -8,13 +8,13 @@
     "static/js/2.9da5e3b3.chunk.js": "/React-Notes-app/static/js/2.9da5e3b3.chunk.js",
     "static/js/2.9da5e3b3.chunk.js.map": "/React-Notes-app/static/js/2.9da5e3b3.chunk.js.map",
     "index.html": "/React-Notes-app/index.html",
-    "static/css/main.a0638d69.chunk.css.map": "/React-Notes-app/static/css/main.a0638d69.chunk.css.map",
+    "static/css/main.2b599f18.chunk.css.map": "/React-Notes-app/static/css/main.2b599f18.chunk.css.map",
     "static/js/2.9da5e3b3.chunk.js.LICENSE.txt": "/React-Notes-app/static/js/2.9da5e3b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.333db24f.js",
     "static/js/2.9da5e3b3.chunk.js",
-    "static/css/main.a0638d69.chunk.css",
+    "static/css/main.2b599f18.chunk.css",
     "static/js/main.68651d82.chunk.js"
   ]
 }
